@@ -10,7 +10,7 @@ Measure and display flows using an Arduino Mega and an I2C-LCD
         
  Spec Ops:
  This program on Arduino_Mega is recording flow rates measured by three flowmeters (Hall-sensors), for example, once per second (adjustable). 
- The data is shown on LCD screen, and can be send via USB to Excel running on a PC, using a program called PLX-DAQ (optional data recording).
+ The data is shown on LCD screen, and can be sent via USB to Excel running on a PC, using a program called PLX-DAQ (optional data recording).
 
  1) For the Arduion Mega processor that is: counting Hall-signals via the "INTERRUPT"-function from spec. "counting pins" (see below).
     For "interrupts" (ISR functions) see https:www.arduino.cc/en/Reference/AttachInterrupt 
