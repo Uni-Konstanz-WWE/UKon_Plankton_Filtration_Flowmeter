@@ -6,7 +6,9 @@ Measure and display flows using an Arduino Mega and an I2C-LCD
 
  ************************************************************************
  coded by David Schleheck for Uni Konstanz
+ 
  modified by Alexander Fiedler for AG Schleheck Uni Konstanz
+ 
  additional modification by Maximilian Weidele, Wissenschaftliche Werkstätten Elektronik, Universität Konstanz
         
  Spec Ops:
