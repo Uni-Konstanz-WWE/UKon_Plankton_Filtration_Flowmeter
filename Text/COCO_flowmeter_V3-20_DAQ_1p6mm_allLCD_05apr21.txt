@@ -4,7 +4,8 @@
  ************************************************************************
  coded by David Schleheck for Uni Konstanz
  modified by Alexander Fiedler for AG Schleheck Uni Konstanz
-        
+ additional modification by Maximilian Weidele, Wissenschaftliche Werkstätten Elektronik, Universität Konstanz
+ 
  Spec Ops:
  This program on Arduino_Mega is recording flow rates measured by three flowmeters (Hall-sensors), for example, once per second (adjustable). 
  The data is shown on LCD screen, and can be send via USB to Excel running on a PC, using a program called PLX-DAQ (optional data recording).
