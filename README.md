@@ -1,4 +1,4 @@
-# COCO_flowmeter_V3-20
+# UKon_Plankton_Filtration_Flowmeter
 Measure and display flows using an Arduino Mega and an I2C-LCD
 
  *********************************************************************
