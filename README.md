@@ -9,7 +9,7 @@ Measure and display flows using an Arduino Mega and an I2C-LCD
  
  modified by Alexander Fiedler for AG Schleheck Uni Konstanz
  
- additional modification by Maximilian Weidele, Wissenschaftliche Werkstätten Elektronik, Universität Konstanz
+ additional modification by Maximilian Weidele, Scientific Engineering an Manufacturing Services, University Konstanz
         
  Spec Ops:
  This program on Arduino_Mega is recording flow rates measured by three flowmeters (Hall-sensors), for example, once per second (adjustable). 
